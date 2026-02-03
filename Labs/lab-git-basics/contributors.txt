@@ -1,0 +1,11 @@
+# Contributors
+
+This file is used in the Git Basics lab.
+
+Instructions:
+1. Add your name at the end of this file.
+2. Save the file.
+3. Commit the change.
+4. Create a Pull Request.
+
+Do not modify existing content.
